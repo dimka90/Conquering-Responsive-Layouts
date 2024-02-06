@@ -59,6 +59,7 @@ h1 {
     padding: 100px 0;
     background-color: #23424A;
     color: #FFF;
+    margin-bottom: 1.5em;
 }
 
 .hero__text { 
@@ -88,4 +89,23 @@ h1 {
 .btn:hover,
 .btn:focus {
     opacity: .75; 
+}
+.stack-items
+{
+    background-color: #136C72;
+    color:white;
+    text-align: center;
+    font-family: Roboto;
+    width: 40%;
+    padding: 0px 1em;
+}
+.one__col
+{
+    font-family: Roboto;
+    width:50%;
+    color:#23424A;
+}
+.one__col h2
+{
+    color:#136C72;
 }
